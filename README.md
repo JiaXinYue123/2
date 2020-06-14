@@ -1,17 +1,16 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-<title>web-zuoye</title>
-<meta charset="utf-8">
-<style type="text/css">
-*{
-	margin:0px;
-	padding-top:0px;
-}
-select{
-	border:none;
-}
+	<title>web8</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+	*{
+		margin:0px;
+		padding-top:0px;
+	}
+	select{
+		border:none;
+	}
 	a{
 		text-decoration: none;
 		color:black;
@@ -328,9 +327,8 @@ select{
         <li style="border-right:1px rgb(50,50,50) solid;"><a href="#">法律服务</a></li>
         </ul>
         <br/>
-        <p style="color:white;margin-left:700px;font-size:14px;">O&nbsp2019-2020&nbsp买猜商城有限公司&nbsp版权所有</p>
+        <p style="color:white;margin-left:700px;font-size:14px;">O&nbsp2017-2018&nbsp买猜商城有限公司&nbsp版权所有</p>
         </div>
       
 </body>
 </html>
-
